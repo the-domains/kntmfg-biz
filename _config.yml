@@ -1,6 +1,6 @@
 name: kntmfg.biz
 favicon: null
-layout_spectrum: 0.7408392624929547
+layout_spectrum: 0.24476
 typography_spectrum: 0.4206198917236179
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.7754447648767382
+    - '#054779'
+    - '#ff991f'
+    - '#ff3743'
+    - '#000000'
+    - '#fff9f1'
+  brandStrength: 0.8125
   lightness: 0.23403220414184034
-  saturation: 0.6669215760193765
-  rhythmicContrast: 0.5579495111014694
+  saturation: 0.0625
+  rhythmicContrast: 0.25
 purpose: []
