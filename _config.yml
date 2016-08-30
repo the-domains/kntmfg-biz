@@ -1,20 +1,4 @@
-name: kntmfg.biz
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.4206198917236179
-title: K & T Manufacturing
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#603813'
@@ -26,4 +10,21 @@ color:
   lightness: 0.25
   saturation: 0.1875
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: kntmfg.biz
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: K & T Manufacturing
+description: Origin of the maker 2 mass movement
 purpose: []
